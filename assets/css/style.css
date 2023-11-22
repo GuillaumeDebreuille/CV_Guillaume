@@ -98,3 +98,20 @@ main {
 .right ul {
     margin-left: 15px;
 }
+
+
+
+            /*  LOGO + DATE */
+footer img {
+    width: 40px;
+}
+footer {
+    background-color: #782221;
+    width: 1160px;
+    margin: auto;
+    text-align: center;
+    color: white;
+
+    padding-top: 20px;
+    padding-bottom: 20px ;
+}
