@@ -37,3 +37,12 @@ nav a {
     color: white;
     text-decoration: none;
 }
+
+
+
+            /* Body, left and right */
+main {
+    display: flex;
+    width: 1160px;
+    margin: auto;
+}
