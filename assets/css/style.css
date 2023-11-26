@@ -1,7 +1,10 @@
             /* Picture, name, job */
 .picture {
-    position: relative;
+    display: flex;
+    flex-direction: column;
     text-align: center;
+    align-items: center;
+
     width: 1160px;
     margin: auto; 
     padding-top: 30px;
@@ -11,6 +14,7 @@
     color: white; 
 }
 .picture img {
+    width: 250px;
     border-radius: 50%;
     box-shadow: 0 0 50px 5px rgb(99, 99, 99);
 }
