@@ -112,6 +112,9 @@ main {
 footer img {
     width: 40px;
 }
+footer img:hover{
+    opacity: 50%;
+}
 footer {
     background-color: #782221;
     width: 1160px;
