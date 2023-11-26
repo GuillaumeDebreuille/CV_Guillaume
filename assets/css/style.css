@@ -57,20 +57,20 @@ main {
 
 
             /* Left */
-.left {
+aside {
     width: 25%;
     background-color: #782221 ;
 }
-.left h2 {
+aside h2 {
     background-color: #dbc2a4;
     width: 80%;
     padding-left: 15px;
 }
-.left ul {
+aside ul {
     color: white;
     text-align: justify;
 }
-.left p {
+aside p {
     padding-right: 15px;
     padding-left: 15px;
     width: 80%;
@@ -81,11 +81,11 @@ main {
 
 
             /*  Right */
-.right {
+article {
     width: 75%;
     border-right: solid #2c1d27 ;
 }         
-.right h2 {
+article h2 {
     border-left:6px solid #782221;
     padding-left: 8px;
 
@@ -94,18 +94,18 @@ main {
     padding-left: 8px;
     background-color:  #dbc2a4; 
 }
-.right h3 {
+article h3 {
     margin-left: 15px;
     font-weight: bold;
 }
 
-.right p {
+article p {
     margin-left: 15px;
 }
-.right ul {
+article ul {
     margin-left: 15px;
 }
-.right li:hover {
+article li:hover {
     border-right: 5px solid #782221;
     margin-right: 650px;
 }
