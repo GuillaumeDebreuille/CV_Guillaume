@@ -18,6 +18,9 @@
     border-radius: 50%;
     box-shadow: 0 0 50px 5px rgb(99, 99, 99);
 }
+.picture img:hover{
+    cursor: zoom-in;
+}
 .picture p {
     font-weight: bold;
 }
