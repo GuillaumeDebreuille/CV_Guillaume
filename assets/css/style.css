@@ -102,7 +102,10 @@ main {
 .right ul {
     margin-left: 15px;
 }
-
+.right li:hover {
+    border-right: 10px solid #782221;
+    margin-right: 730px;
+}
 
 
             /*  LOGO + DATE */
