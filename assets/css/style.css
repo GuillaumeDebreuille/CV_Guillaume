@@ -1,4 +1,31 @@
-            /* Picture, name, job */
+
+/* font-familly */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@font-face {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 400; 
+    src: url(../Fonts/Raleway-VariableFont_wght_WOFF.woff);
+    src: url(../Fonts/Raleway-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "Raleway";
+    font-style: italic;
+    font-weight: 400; 
+    src: url(../Fonts/Raleway-Italic-VariableFont_wght_WOOF.woff);
+    src: url(../Fonts/Raleway-Italic-VariableFont_wght.ttf);
+}
+h1, h2, h3 {
+    font-family: "Lato";
+}
+ p, li, a {
+    font-family: "Raleway";
+ }
+ 
+
+
+
+ /* Picture, name, job */
 .picture {
     display: flex;
     flex-direction: column;
