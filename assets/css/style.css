@@ -141,6 +141,7 @@ article li:hover {
             /*  LOGO + DATE */
 footer img {
     width: 40px;
+    margin: 3px;
 }
 footer img:hover{
     opacity: 50%;
